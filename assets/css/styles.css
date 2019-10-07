@@ -1415,7 +1415,7 @@ color: #fff !important;
 .navbar a{ 
      color: #211f1f !important; 
 }
-.navbar a img{ 
+.navbar-brand img{ 
     width: 18%;
 }
 .inner-page .navbar-bg-onscroll .nav-link{
@@ -1530,10 +1530,10 @@ li.nav-item.active > a {
   .navbar-expand-sm.fixed-top {
     background-color: rgba(27, 30, 36, 0.3); 
   }
-  .navbar a{ 
+  .navbar-brand{ 
      width: 80%;
   }
-   .navbar a img{ 
+   .navbar-brand img{ 
      width: 10%;
   }
 }
@@ -1549,10 +1549,10 @@ li.nav-item.active > a {
   .inner-page .onCollapse a {
 		color: #211f1f !important;
 	}
-   .navbar a{ 
+   .navbar-brand{ 
      width: 80%;
   }
-   .navbar a img{ 
+   .navbar-brand img{ 
      width: 10%;
   }
 }
@@ -1561,7 +1561,7 @@ li.nav-item.active > a {
   .navbar-expand-lg.fixed-top {
     /* background-color: rgba(27, 30, 36, 0.3); */
   } 
-   .navbar a img{ 
+   .navbar-brand img{ 
      width: 10%;
   }
 } 
