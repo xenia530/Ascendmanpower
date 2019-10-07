@@ -14,13 +14,16 @@ h1, h2{
 	font-weight:bolder;
 }
 .w-128 {
-    width: 110%!important;
+    width: 110% !important;
 } 
 .w-20 {
-    width: 20%!important;
+    width: 20% !important;
+} 
+.w-18 {
+    width: 18%;
 } 
 .w-10 {
-    width: 10%!important;
+    width: 10% !important;
 } 
 html {
   font-size: 1rem;
@@ -1414,10 +1417,7 @@ color: #fff !important;
 }
 .navbar a{ 
      color: #211f1f !important; 
-}
-.navbar-brand img{ 
-    width: 18%;
-}
+} 
 .inner-page .navbar-bg-onscroll .nav-link{
 	 color: #211f1f !important;
 }
@@ -1531,10 +1531,10 @@ li.nav-item.active > a {
     background-color: rgba(27, 30, 36, 0.3); 
   }
   .navbar-brand{ 
-     width: 80%;
+     width: 80%  !important;;
   }
    .navbar-brand img{ 
-     width: 10%;
+     width: 10%  !important;;
   }
 }
 
@@ -1550,10 +1550,10 @@ li.nav-item.active > a {
 		color: #211f1f !important;
 	}
    .navbar-brand{ 
-     width: 80%;
+     width: 80%  !important;;
   }
    .navbar-brand img{ 
-     width: 10%;
+     width: 10%  !important;;
   }
 }
 
@@ -1562,6 +1562,6 @@ li.nav-item.active > a {
     /* background-color: rgba(27, 30, 36, 0.3); */
   } 
    .navbar-brand img{ 
-     width: 10%;
+     width: 10%  !important;;
   }
 } 
